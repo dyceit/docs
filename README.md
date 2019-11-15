@@ -1,2 +1,4 @@
-# docs
-Dyceit Document
+# Dyceit Document
+
+> An awesome project.
+
