@@ -22,3 +22,8 @@
 
 * Javascript
 	* [BOM](/bom) 
+
+* Java设计模式
+  * [单列模式](/designpattern/singleton)
+  * [工厂模式](/designpattern/factory-pattern)
+
